@@ -6,8 +6,6 @@ Este é um projeto de site fictício para uma loja de venda de carros, criado co
 
 ## 📸 Preview
 
-(Adicione aqui uma imagem do site. Exemplo:)
-
 ![Preview](./preview.png) 
 
 ---
@@ -33,12 +31,15 @@ Este é um projeto de site fictício para uma loja de venda de carros, criado co
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/site-venda-carros.git
-Acesse a pasta do projeto:
+2.Acesse a pasta do projeto:
 
 bash
-Copiar
-Editar
-cd site-venda-carros
+3.Copiar
+4.Editar
+5.cd site-venda-carros
 
 ou
 
+6.Clique no botão verde **"Code"** acima.
+7.Selecione **"Download ZIP"** para baixar o projeto.
+8.Abra o arquivo index.html.
