@@ -33,13 +33,12 @@ Este é um projeto de site fictício para uma loja de venda de carros, criado co
    git clone https://github.com/seu-usuario/site-venda-carros.git
 2.Acesse a pasta do projeto:
 
+ ```bash
+   git clone https://github.com/seu-usuario/site-venda-carros.git
+Acesse a pasta do projeto:
+
 bash
-3.Copiar
-4.Editar
-5.cd site-venda-carros
-
-ou
-
-6.Clique no botão verde **"Code"** acima.
-7.Selecione **"Download ZIP"** para baixar o projeto.
-8.Abra o arquivo index.html.
+Copiar
+Editar
+cd site-venda-carros
+Abra o arquivo index.html no seu navegador.
