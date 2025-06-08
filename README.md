@@ -8,7 +8,7 @@ Este é um projeto de site fictício para uma loja de venda de carros, criado co
 
 (Adicione aqui uma imagem do site. Exemplo:)
 
-![Preview do site](caminho/para/sua/imagem.png)
+![Preview](./preview.png) 
 
 ---
 
